@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-pring("Hello");
+pring("Hello\n");
   return 0;
 }
