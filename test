@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main(){
+pring("Hello");
+  return 0;
+}
